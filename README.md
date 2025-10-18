@@ -16,5 +16,6 @@ A modern web application designed to provide real-time insights and analytics fo
 - HTML5
 - CSS3
 - JavaScript (ES6)
- **[GitHub Profile](https://github.com/RuthNzikwikiza) **
- Author: Ruth Nzikwikiza
+ 
+**Author:** Ruth Nzikwikiza  
+[GitHub Profile](https://github.com/RuthNzikwikiza)
